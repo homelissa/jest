@@ -11,7 +11,6 @@ class App extends React.Component {
     this.setState({name: "renamed"});
   }
 
-
   render() {
     return (
       <label>
