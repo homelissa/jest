@@ -4,8 +4,7 @@
   "description": "",
   "main": "sum.js",
   "scripts": {
-    "test": "jest",
-    "jest": "node ./packages/jest-cli/bin/jest.js"
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",
